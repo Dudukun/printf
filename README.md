@@ -1,1 +1,1 @@
-print f
+loops through a string and prints every character
