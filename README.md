@@ -1,1 +1,1 @@
-a function that produces output according to a format.
+Create a man page for your function.
