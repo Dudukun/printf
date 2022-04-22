@@ -1,1 +1,1 @@
-print f group task
+print f
