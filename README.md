@@ -1,1 +1,1 @@
-loops through a string and prints every character
+ prints a number in hexadecimal base and lower case
