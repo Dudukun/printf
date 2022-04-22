@@ -1,1 +1,1 @@
- non printable characters
+writes the character c to stdout
